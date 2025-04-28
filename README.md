@@ -94,13 +94,4 @@ http://localhost:<port>/BloodBank
 
 Contributions to the project are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Author:** Neha Patil  
-**Institution:** SES's R. C. Patel Institute of Technology  
-**Year:** 2019-2020
 
